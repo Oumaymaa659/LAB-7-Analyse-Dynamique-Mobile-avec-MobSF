@@ -1,7 +1,5 @@
 # LAB 7 : Analyse Dynamique Mobile avec MobSF  
-
-**Auteur :** Oumayma Benhilal  
-**Cours :** Sécurité des applications mobiles  
+ 
 
 ## Objectifs du lab  
 - Comprendre en profondeur l’analyse dynamique (runtime) d’une application Android avec **MobSF**.  
